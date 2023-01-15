@@ -1,0 +1,4 @@
+create database MVNDB;
+use MVNDB;
+create table FaizaMVNDB(web_pages varchar(20),state_province varchar(10) null,alpha_two_code varchar(10),
+name varchar (20),country varchar(20),domains varchar(20));
