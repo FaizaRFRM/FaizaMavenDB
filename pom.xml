@@ -4,11 +4,12 @@
 	<artifactId>MVNDB</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<dependencies>
-		<!-- https://mvnrepository.com/artifact/com.microsoft.sqlserver/mssql-jdbc -->
+
+		<!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
 		<dependency>
-			<groupId>com.microsoft.sqlserver</groupId>
-			<artifactId>mssql-jdbc</artifactId>
-			<version>11.2.0.jre8</version>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>8.0.29</version>
 		</dependency>
 
 
